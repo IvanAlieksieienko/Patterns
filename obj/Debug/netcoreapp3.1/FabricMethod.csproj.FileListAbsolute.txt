@@ -1,0 +1,13 @@
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\FabricMethod\bin\Debug\netcoreapp3.1\FabricMethod.exe
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\FabricMethod\bin\Debug\netcoreapp3.1\FabricMethod.deps.json
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\FabricMethod\bin\Debug\netcoreapp3.1\FabricMethod.runtimeconfig.json
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\FabricMethod\bin\Debug\netcoreapp3.1\FabricMethod.runtimeconfig.dev.json
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\FabricMethod\bin\Debug\netcoreapp3.1\FabricMethod.dll
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\FabricMethod\bin\Debug\netcoreapp3.1\FabricMethod.pdb
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\FabricMethod\obj\Debug\netcoreapp3.1\FabricMethod.csprojAssemblyReference.cache
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\FabricMethod\obj\Debug\netcoreapp3.1\FabricMethod.csproj.CoreCompileInputs.cache
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\FabricMethod\obj\Debug\netcoreapp3.1\FabricMethod.AssemblyInfoInputs.cache
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\FabricMethod\obj\Debug\netcoreapp3.1\FabricMethod.AssemblyInfo.cs
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\FabricMethod\obj\Debug\netcoreapp3.1\FabricMethod.dll
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\FabricMethod\obj\Debug\netcoreapp3.1\FabricMethod.pdb
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\FabricMethod\obj\Debug\netcoreapp3.1\FabricMethod.genruntimeconfig.cache
