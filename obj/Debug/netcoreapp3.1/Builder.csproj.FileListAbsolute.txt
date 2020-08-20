@@ -1,0 +1,13 @@
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Different\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
