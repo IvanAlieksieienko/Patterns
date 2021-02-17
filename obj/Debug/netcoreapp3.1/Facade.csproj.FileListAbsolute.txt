@@ -1,0 +1,13 @@
+E:\Programming\Practice\Patterns\Facade\obj\Debug\netcoreapp3.1\Facade.csprojAssemblyReference.cache
+E:\Programming\Practice\Patterns\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CoreCompileInputs.cache
+E:\Programming\Practice\Patterns\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+E:\Programming\Practice\Patterns\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+E:\Programming\Practice\Patterns\Facade\bin\Debug\netcoreapp3.1\Facade.exe
+E:\Programming\Practice\Patterns\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
+E:\Programming\Practice\Patterns\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.json
+E:\Programming\Practice\Patterns\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.dev.json
+E:\Programming\Practice\Patterns\Facade\bin\Debug\netcoreapp3.1\Facade.dll
+E:\Programming\Practice\Patterns\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+E:\Programming\Practice\Patterns\Facade\obj\Debug\netcoreapp3.1\Facade.dll
+E:\Programming\Practice\Patterns\Facade\obj\Debug\netcoreapp3.1\Facade.pdb
+E:\Programming\Practice\Patterns\Facade\obj\Debug\netcoreapp3.1\Facade.genruntimeconfig.cache
