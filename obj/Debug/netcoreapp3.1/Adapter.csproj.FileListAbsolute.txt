@@ -1,0 +1,13 @@
+E:\Programming\Practice\Patterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+E:\Programming\Practice\Patterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+E:\Programming\Practice\Patterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+E:\Programming\Practice\Patterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+E:\Programming\Practice\Patterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+E:\Programming\Practice\Patterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+E:\Programming\Practice\Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+E:\Programming\Practice\Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+E:\Programming\Practice\Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+E:\Programming\Practice\Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+E:\Programming\Practice\Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+E:\Programming\Practice\Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+E:\Programming\Practice\Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache
