@@ -1,0 +1,13 @@
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Proxy\obj\Debug\netcoreapp3.1\Proxy.csprojAssemblyReference.cache
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+C:\Users\Ivan.Alieksieienko\Desktop\Other\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache
