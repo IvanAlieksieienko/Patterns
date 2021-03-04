@@ -1,0 +1,15 @@
+/Users/ivan/Documents/Programming/Practice/Patterns/ChainOfResponsibillity/bin/Debug/net5.0/ChainOfResponsibillity.deps.json
+/Users/ivan/Documents/Programming/Practice/Patterns/ChainOfResponsibillity/bin/Debug/net5.0/ChainOfResponsibillity.runtimeconfig.json
+/Users/ivan/Documents/Programming/Practice/Patterns/ChainOfResponsibillity/bin/Debug/net5.0/ChainOfResponsibillity.runtimeconfig.dev.json
+/Users/ivan/Documents/Programming/Practice/Patterns/ChainOfResponsibillity/bin/Debug/net5.0/ChainOfResponsibillity.dll
+/Users/ivan/Documents/Programming/Practice/Patterns/ChainOfResponsibillity/bin/Debug/net5.0/ref/ChainOfResponsibillity.dll
+/Users/ivan/Documents/Programming/Practice/Patterns/ChainOfResponsibillity/bin/Debug/net5.0/ChainOfResponsibillity.pdb
+/Users/ivan/Documents/Programming/Practice/Patterns/ChainOfResponsibillity/obj/Debug/net5.0/ChainOfResponsibillity.csprojAssemblyReference.cache
+/Users/ivan/Documents/Programming/Practice/Patterns/ChainOfResponsibillity/obj/Debug/net5.0/ChainOfResponsibillity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan/Documents/Programming/Practice/Patterns/ChainOfResponsibillity/obj/Debug/net5.0/ChainOfResponsibillity.AssemblyInfoInputs.cache
+/Users/ivan/Documents/Programming/Practice/Patterns/ChainOfResponsibillity/obj/Debug/net5.0/ChainOfResponsibillity.AssemblyInfo.cs
+/Users/ivan/Documents/Programming/Practice/Patterns/ChainOfResponsibillity/obj/Debug/net5.0/ChainOfResponsibillity.csproj.CoreCompileInputs.cache
+/Users/ivan/Documents/Programming/Practice/Patterns/ChainOfResponsibillity/obj/Debug/net5.0/ChainOfResponsibillity.dll
+/Users/ivan/Documents/Programming/Practice/Patterns/ChainOfResponsibillity/obj/Debug/net5.0/ref/ChainOfResponsibillity.dll
+/Users/ivan/Documents/Programming/Practice/Patterns/ChainOfResponsibillity/obj/Debug/net5.0/ChainOfResponsibillity.pdb
+/Users/ivan/Documents/Programming/Practice/Patterns/ChainOfResponsibillity/obj/Debug/net5.0/ChainOfResponsibillity.genruntimeconfig.cache
