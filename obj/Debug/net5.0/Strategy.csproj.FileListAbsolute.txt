@@ -1,0 +1,15 @@
+/Users/ivan/Documents/Programming/Practice/Patterns/Strategy/obj/Debug/net5.0/Strategy.csprojAssemblyReference.cache
+/Users/ivan/Documents/Programming/Practice/Patterns/Strategy/obj/Debug/net5.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan/Documents/Programming/Practice/Patterns/Strategy/obj/Debug/net5.0/Strategy.AssemblyInfoInputs.cache
+/Users/ivan/Documents/Programming/Practice/Patterns/Strategy/obj/Debug/net5.0/Strategy.AssemblyInfo.cs
+/Users/ivan/Documents/Programming/Practice/Patterns/Strategy/obj/Debug/net5.0/Strategy.csproj.CoreCompileInputs.cache
+/Users/ivan/Documents/Programming/Practice/Patterns/Strategy/bin/Debug/net5.0/Strategy.deps.json
+/Users/ivan/Documents/Programming/Practice/Patterns/Strategy/bin/Debug/net5.0/Strategy.runtimeconfig.json
+/Users/ivan/Documents/Programming/Practice/Patterns/Strategy/bin/Debug/net5.0/Strategy.runtimeconfig.dev.json
+/Users/ivan/Documents/Programming/Practice/Patterns/Strategy/bin/Debug/net5.0/Strategy.dll
+/Users/ivan/Documents/Programming/Practice/Patterns/Strategy/bin/Debug/net5.0/ref/Strategy.dll
+/Users/ivan/Documents/Programming/Practice/Patterns/Strategy/bin/Debug/net5.0/Strategy.pdb
+/Users/ivan/Documents/Programming/Practice/Patterns/Strategy/obj/Debug/net5.0/Strategy.dll
+/Users/ivan/Documents/Programming/Practice/Patterns/Strategy/obj/Debug/net5.0/ref/Strategy.dll
+/Users/ivan/Documents/Programming/Practice/Patterns/Strategy/obj/Debug/net5.0/Strategy.pdb
+/Users/ivan/Documents/Programming/Practice/Patterns/Strategy/obj/Debug/net5.0/Strategy.genruntimeconfig.cache
