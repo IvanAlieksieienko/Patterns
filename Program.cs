@@ -2,36 +2,45 @@
 
 namespace Strategy
 {
+	// Общий интерфейс всех стратегий.
+	interface IStrategy
+	{
+		int Execute(int a, int b);
+	}
+
+	// Каждая конкретная стратегия реализует общий интерфейс своим
+	// способом.
+	class SpecificStrategyAdd : IStrategy
+	{
+		public int Execute(int a, int b) => a + b;
+	}
+
+	class SpecificStrategySubstract : IStrategy
+	{
+		public int Execute(int a, int b) => a - b;
+	}
+
+	class SpecificStrategyMultiply : IStrategy
+	{
+		public int Execute(int a, int b) => a * b;
+	}
+
+	// Контекст всегда работает со стратегиями через общий
+	// интерфейс. Он не знает, какая именно стратегия ему подана.
+	class Context
+	{
+		private IStrategy strategy;
+
+		public void SetStrategy(IStrategy strategy) => this.strategy = strategy;
+		public int ExecuteStrategy(int a, int b) => this.strategy.Execute(a, b);
+	}
+
 	class Program
 	{
-		interface IStrategy
-		{
-			int Execute(int a, int b);
-		}
-
-		class SpecificStrategyAdd : IStrategy
-		{
-			public int Execute(int a, int b) => a + b;
-		}
-
-		class SpecificStrategySubstract : IStrategy
-		{
-			public int Execute(int a, int b) => a - b;
-		}
-
-		class SpecificStrategyMultiply : IStrategy
-		{
-			public int Execute(int a, int b) => a * b;
-		}
-
-		class Context
-		{
-			private IStrategy strategy;
-
-			public void SetStrategy(IStrategy strategy) => this.strategy = strategy;
-			public int ExecuteStrategy(int a, int b) => this.strategy.Execute(a, b);
-		}
-
+		// Конкретная стратегия выбирается на более высоком уровне,
+		// например, конфигуратором всего приложения. Готовый объект-
+		// стратегия подаётся в клиентский объект, а затем может быть
+		// заменён другой стратегией в любой момент на лету.
 		static void Main(string[] args)
 		{
 			var input = OperationType.Add;
